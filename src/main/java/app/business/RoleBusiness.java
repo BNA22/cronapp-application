@@ -21,6 +21,7 @@ public class RoleBusiness {
 
   private static final Logger log = LoggerFactory.getLogger(RoleBusiness.class);
   private String nome;
+  private int idade;
 
   /**
    * Instância da classe RoleDAO que faz o acesso ao banco de dados
